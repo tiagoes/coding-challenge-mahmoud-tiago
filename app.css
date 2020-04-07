@@ -1,0 +1,15 @@
+#main {
+	background-color: lightgray;
+	border-radius: 20px;
+	text-align: center;
+}
+
+#title {
+	padding: 5%;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 900;
+}
+
+#title h1 {
+	letter-spacing: 10px;
+}
